@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Biblioteca.Properties
+namespace VistasBiblioteca.Properties
 {
 
 
